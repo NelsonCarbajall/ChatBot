@@ -1,7 +1,7 @@
 import google.generativeai as genai
 
 
-chave_key = "AIzaSyBeYG1Zy19XqCaMDLE6SxYyyxZMfTennlw"
+chave_key = "#Aqui você adicionar sua chave de api"
 
 genai.configure(api_key=chave_key)
 
